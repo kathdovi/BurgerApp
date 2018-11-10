@@ -2,8 +2,8 @@
 
 Burger App is a full-stack application that allows users to add and eat burgers. The app can be accessed [here](https://safe-cove-40146.herokuapp.com/).
 
-## Interface
-![App Picture](https://github.com/kathdovi/BurgerApp/blob/master/pic.png)
+## Demonstration
+![App Gif](https://github.com/kathdovi/BurgerApp/blob/master/EatDaBurger.gif)
 
 
 ## Built With
