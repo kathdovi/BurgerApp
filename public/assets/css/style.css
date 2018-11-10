@@ -105,3 +105,9 @@ h1 {
 	color: white;
 	border: none;
 }
+
+.burgerimg {
+	padding: 10px;
+	display: block;
+	margin: auto;
+}
